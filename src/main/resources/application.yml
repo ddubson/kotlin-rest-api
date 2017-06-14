@@ -1,0 +1,6 @@
+logging.level:
+  org.springframework.boot: WARN
+  org.springframework.web: WARN
+  org.springframework.boot.web: WARN
+  org.apache.catalina: WARN
+  org.springframework.jmx: WARN
